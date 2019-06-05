@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.04447cf2.chunk.css",
+    "main.js": "/static/js/main.b5112c26.chunk.js",
+    "main.js.map": "/static/js/main.b5112c26.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2a6c7f0154711249d673b4bfb3829cfc.js": "/precache-manifest.2a6c7f0154711249d673b4bfb3829cfc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.04447cf2.chunk.css.map": "/static/css/main.04447cf2.chunk.css.map",
+    "static/media/Bad-Joke-Eel.jpg": "/static/media/Bad-Joke-Eel.c4412feb.jpg",
+    "static/media/Business-Cat.jpg": "/static/media/Business-Cat.d3416819.jpg",
+    "static/media/Chemistry-Cat.jpg": "/static/media/Chemistry-Cat.90756013.jpg",
+    "static/media/Condescending-Wonka.jpg": "/static/media/Condescending-Wonka.5dcf2340.jpg",
+    "static/media/Drunk-Baby.jpg": "/static/media/Drunk-Baby.5f7b5c0c.jpg",
+    "static/media/First-World-Problems.jpg.webp": "/static/media/First-World-Problems.jpg.3de027c3.webp",
+    "static/media/Frye.jpg..webp": "/static/media/Frye.jpg..86c35e08.webp",
+    "static/media/Grumpy-Cat.jpg": "/static/media/Grumpy-Cat.6c228203.jpg",
+    "static/media/Hipster-Dog.jpg.webp": "/static/media/Hipster-Dog.jpg.babf9526.webp",
+    "static/media/Its-the-Children.jpg": "/static/media/Its-the-Children.43f42d36.jpg",
+    "static/media/Most-Interesting-Man.jpg": "/static/media/Most-Interesting-Man.942def00.jpg",
+    "static/media/grumpy-cat-meme-fun.jpg": "/static/media/grumpy-cat-meme-fun.5d20431a.jpg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  }
+}
