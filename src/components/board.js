@@ -104,7 +104,6 @@ class Board extends Component {
               link={card.link}
             />
           ))}
-          {/* <Card number={1} hasBeenClicked={false} /> */}
         </div>
       </div>
     );
